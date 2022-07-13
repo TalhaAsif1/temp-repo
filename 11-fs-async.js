@@ -30,7 +30,7 @@ const result1 = readFile('./content/text.txt', 'utf8', (err, result) => {
 
                 }
                 console.log(result)
-                console.log('in functions');
+          
             })
     })
 })
