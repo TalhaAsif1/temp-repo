@@ -1,4 +1,12 @@
 {
+<<<<<<< HEAD
   "ExpandedNodes": [],
+=======
+  "ExpandedNodes": [
+    "",
+    "\\content"
+  ],
+  "SelectedNode": "\\app.js",
+>>>>>>> 789a34958ec6fdf9e7e9d6b13e1d81f2cf5e9ed8
   "PreviewInSolutionExplorer": true
 }
